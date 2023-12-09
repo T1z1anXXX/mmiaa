@@ -1,2 +1,2 @@
-# this project is not finished
+# this project is not finished completely
  
