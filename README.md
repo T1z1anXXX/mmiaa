@@ -5,7 +5,7 @@ We design a new framework of multimodal networks based on Transformer, named MMA
 
 ## Framework
 <div align="center">
-  <img src="architecture.png"/>
+  <img src="./architecture.png"/>
 </div>
 
 ## Requirements
