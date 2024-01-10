@@ -1,7 +1,7 @@
-# MMAes: Missing Modality Aesthetic Assessment with Digest Mechanism
+# MMIAA: Missing Modality Image Aesthetic Assessment with Digest Mechanism
 
 ## Introduction
-We design a new framework of multimodal networks based on Transformer, named MMAes, with a focus on missing modality aesthetic assessment. MMAes tackles a challenge in multimodal learning for aesthetic assessment when missing modality occurs either during training or testing in real-world situations. Our newly introduced digest mechanism enhances the interaction between complete and missing modality with reduced computational costs. We benefit missing-digests generated from missing-prompts and missing modality data. Each digest compresses the prompts and missing modality data, instructing model in learning and balancing the unequal status of complete and missing modality. MMAes achieves a SOTA performance in terms of complete modality and improves all metrics significantly compared to baseline model in case of missing modality. 
+We design a new framework of multimodal networks based on Transformer, named MMIAA, with a focus on missing modality image aesthetic assessment. MMIAA tackles a challenge in multimodal learning for image aesthetic assessment when missing modality occurs either during training or testing in real-world situations. Our newly introduced digest mechanism enhances the interaction between complete and missing modality with reduced computational costs. We benefit missing-digests generated from missing-prompts and missing modality data. Each digest compresses the prompts and missing modality data, instructing model in learning and balancing the unequal status of complete and missing modality. MMIAA achieves a SOTA performance in terms of complete modality and improves all metrics significantly compared to baseline model in case of missing modality. 
 
 ## Framework
 <div align="center">
